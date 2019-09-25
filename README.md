@@ -1,2 +1,2 @@
-# LeoLi2
+# Digital Zine with InDesign
 My first CSS page
